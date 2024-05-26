@@ -1,10 +1,10 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Member of the Technical Committee (Second Term)
+  organization: Meituan Technical Team (10,000+ engineers)
+  year: 2015
+  summary: <ul><li>Participated in the creation of the first Mobile/Frontend Technical Committee.</li><li>Discussed and established the training and promotion mechanism for Mobile/Frontend engineers.</li><li>Drafted security coding standards for Mobile/Frontend development.</li></ul>
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Member of the Technical Committee (Fourth Term)
+  organization: Meituan Technical Team (10,000+ engineers)
+  year: 2018
+  summary: <ul><li>Standardized the SDK for internal Mobile/Frontend projects across the company.</li><li>Oversaw the training and promotion of Mobile/Frontend engineers.</li><li>Reviewed technical articles and open-source projects released externally in the Mobile/Frontend domain.</li></ul>

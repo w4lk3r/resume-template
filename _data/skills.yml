@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Technology Stack
+- skill: Technology Stack
+  description: Native Android, Flutter, NDK
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Language
+- skill: Language
+  description: Java, Dart, C
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Database
+- skill: Database
+  description: SQLite, MySQL
+
+# SCM
+- skill: SCM
+  description: Git
+
+# Full Stack
+- skill: Full Stack
+  description: <ul><li><b>Android</b>:&nbsp;Flutter, Java/Kotlin</li><li><b>iOS/iPadOS</b>:&nbsp;Flutter</li><li><b>Web</b>:&nbsp;DartWeb, FlutterWeb</li><li><b>Linux/MacOS/Windows</b>:&nbsp;Flutter</li><li><b>Server</b>:&nbsp;DartServer</li><ul>

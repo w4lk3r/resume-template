@@ -1,16 +1,24 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Laiyin
+- project: Laiyin Music Learning Platform (Android, iOS, Web)
+  role: Team Leader & Primary Developer
+  duration: 2020-09 ~ 2022-09
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: The platform covers over 10 specialized music learning apps including KonwRhythm, Laiyin AI Practice, and various instrument-focused applications. The <b>Smart Music Score</b> is the foundational module across these apps. As the technical partner, I led the module's design and developed 90% of the code. <ul class="resume-item-list"><li>Challenges<ul class="resume-item-list"><li><b>Cross-Platform Consistency</b>:&nbsp;Ensuring a highly consistent business presentation and interactive logic across platforms.</li><li><b>Performance</b>:&nbsp;Providing a smooth and responsive practice experience.</li><li><b>Interactivity</b>:&nbsp;Allowing users to view, play, and edit music scores.</li><li><b>Multi-App Adaptability</b>:&nbsp;Adapting to the sound playback and music score display for various instruments.</li></ul></li><li>Solutions<ul class="resume-item-list"><li>Adopted <b>Flutter</b> to guarantee consistency and performance across platforms.</li><li>Reused a <b>Instrument Practice Module</b> for efficient multi-app development.</li><li>Implemented the <b>MusicScoreWidget</b> based on the canvas for score rendering.</li><li>Integrated customized <b>Soundfont</b> for varied instrument sounds.</li></ul></li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Meituan
+- project: Meituan App Dine-In Business (Android, iOS, Web)
+  role: Team Leader
+  duration: 2016-06 ~ 2020-03
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: My team was responsible for the food channel in Meituan and Dianping. Given our monthly active users and order volume exceeding hundreds of millions, optimizing the <b>performance</b> and <b>reliability</b> of our channel was crucial. <ul class="resume-item-list"><li><b>Monitoring Capabilities</b>:&nbsp;Implemented module-level and page-level data loading monitoring to collect information and provide early warnings for performance and availability issues.</li><li><b>Degradation Capabilities</b>:&nbsp;Developed module-level and page-level functional degradation mechanisms to ensure high availability of services.</li></ul>
+
+# Meituan (Message SDK)
+- project: Meituan Instant Messaging Platform (Android, iOS)
+  role: Team Leader & Primary Developer
+  duration: 2012-12 - 2016-05
+  # url: "#"
+  description: Developed the core module for an internal OA app, enabling instant messaging and integration with all internal systems. This module was later evolved into a <b>Message SDK</b> to facilitate direct user-customer service and user-merchant communication across company apps. <ul><li>Challenges<ul><li><b>System Integration</b>:&nbsp;Integrating all internal company systems to support seamless business process handling within the platform.</li><li><b>Message Management</b>:&nbsp;Handling real-time, offline, and historical messages.</li><li><b>Network Reliability</b>:&nbsp;Ensuring message reliability in complex and unstable network environments.</li></ul></li><li>Solutions<ul><li>Implemented 10+ preset message formats. Supported for <b>custom messages</b>.</li><li>Researched and utilized best practices from <b>well-known open-source projects</b> (e.g., XMPP, ZeroMQ) to ensure solution reliability.</li><li>Optimized <b>data packet size</b> by serializing messages into a binary format.</li><li>Defined a <b>network state machine model</b> to handle different network states and transitions, ensuring stability and reliability.</li></ul></li></ul>
+
