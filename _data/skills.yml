@@ -17,4 +17,4 @@
 
 # Full Stack
 - skill: Full Stack
-  description: <ul><li><b>Android</b>:&nbsp;Flutter, Java/Kotlin</li><li><b>iOS/iPadOS</b>:&nbsp;Flutter</li><li><b>Web</b>:&nbsp;DartWeb, FlutterWeb</li><li><b>Linux/MacOS/Windows</b>:&nbsp;Flutter</li><li><b>Server</b>:&nbsp;DartServer</li><ul>
+  description: Flutter, FlutterWeb, DartWeb, DartServer, FFI
