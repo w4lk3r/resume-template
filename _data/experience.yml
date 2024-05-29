@@ -1,36 +1,42 @@
 # Jobs
 # Relocation
-- company: Career Break
-  position: Relocation
-  duration: 2023-04 ~ Present
-  summary: In relocating my family to Canada, I navigated the complex visa application process, and successfully established a new life for us abroad.
+- company: Relocation
+  position: Career Break
+  duration: 2023-05 ~ Present
+  summary: <ul><li>Relocated to Canada.</li><li>Settled down and started our new life.</li></ul>
+
+# Relocation
+- company: Consultant
+  position: Freelancer
+  duration: 2022-10 ~ 2023-04
+  summary: <ul><li>Applied to schools for my wife and child.</li><li>Worked in freelance and technology consulting.</li></ul>
 
 # Technical Partner
-- company: Beijing Xihang Technology Co., Ltd. (Laiyin)
+- company: Laiyin (Beijing Xihang Technology Co., Ltd.)
   position: Technical Partner
   duration:  2020-04 ~ 2023-04
-  summary: <b>Laiyin</b> is a music education technology platform with over 10 million registered users. It enhances the efficiency and enjoyment of learning music through the integration of Internet and AI Big Data technologies.
+  summary: <b>Laiyin</b> is a music education technology platform with over 10 million registered users. It enhances the efficiency and enjoyment of learning music through the integration of Internet and AI Big Data technologies.<br/><br/>Responsibilities:<ul class="resume-item-list"><li>Architected and developed core modules.</li><li>  Set goals, tracked progress, coordinated resources, and ensured quality.</li><li>Managed recruitment, tech stack, and talent growth for teams.</li></ul>
 
 # Senior Technical Expert
-- company: Beijing Sankuai Online Technology Co.,Ltd. (Meituan)
+- company: Meituan (Beijing Sankuai Online Technology Co.,Ltd.)
   position: Senior Technical Expert
   duration:  2012-02 ~ 2020-04
-  summary: <b>Meituan</b>, the premier online service platform in China, serves over 770 million registered users. It provides a comprehensive range of services, from food delivery and restaurant reservations to comprehensive travel booking options and essential daily needs(hotels, entrance ticket, flights, trains/buses/boats).
+  summary: <b>Meituan</b>, the premier online service platform in China, serves over 770 million registered users. It provides a comprehensive range of services, from food delivery and restaurant reservations to comprehensive travel booking options and essential daily needs(hotels, entrance ticket, flights, trains/buses/boats).<br/><br/>Responsibilities:<ul class="resume-item-list"><li>Architected and developed core modules.</li><li>  Set goals, tracked progress, coordinated resources, and ensured quality.</li><li>Managed recruitment, tech stack, and talent growth for teams.</li></ul>
 
 # Senior Software Engineer
-- company: Beijing Changtan Technology Co.,Ltd. (Diandian)
+- company: Diandian (Beijing Changtan Technology Co.,Ltd.)
   position: Senior Software Engineer
   duration:  2011-04 ~ 2012-02
   summary: <b>Diandian</b> was the largest light blog platform in China (similar to Tumblr), and it had amassed over 6 million registered users during my involvement.
 
 # Senior Software Engineer
-- company: Beijing MoScreen Technology Co.,Ltd. (MoScreen)
+- company: MoScreen (Beijing MoScreen Technology Co.,Ltd.)
   position: Senior Software Engineer
   duration:  2010-05 ~ 2011-04
   summary: <b>MoScreen Comic</b> was a popular platform for manga enthusiasts, and it had amassed over 2 million registered users during my involvement.
 
 # Software Engineer
-- company: SinoCom Computer System Co., Ltd. (SinoCom)
+- company: SinoCom (SinoCom Computer System Co., Ltd.)
   position: Software Engineer
   duration:  2008-06 ~ 2010-05
   summary: <b>SinoCom</b> is a large-scale global enterprise incorporated in 1995. It is a well-known high-tech company that focuses on offshore software outsourcing, technical support, and services.
