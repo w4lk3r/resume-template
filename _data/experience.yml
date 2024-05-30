@@ -3,40 +3,40 @@
 - company: Relocation
   position: Career Break
   duration: 2023-05 ~ Present
-  summary: <ul><li>Relocated to Canada.</li><li>Settled down and started our new life.</li></ul>
+  summary: <ul class="resume-item-ul"><li>Relocated to Canada.</li><li>Settled down and started our new life.</li></ul>
 
 # Relocation
 - company: Consultant
   position: Freelancer
   duration: 2022-10 ~ 2023-04
-  summary: <ul><li>Applied to schools for my wife and child.</li><li>Worked in freelance and technology consulting.</li></ul>
+  summary: <ul class="resume-item-ul"><li>Applied to schools for my wife and child.</li><li>Worked in freelance and technology consulting.</li></ul>
 
 # Technical Partner
 - company: Laiyin (Beijing Xihang Technology Co., Ltd.)
   position: Technical Partner & Team Leader
   duration:  2020-04 ~ 2023-04
-  summary: <b>Laiyin</b> is a music education technology platform with over 10 million registered users. It enhances the efficiency and enjoyment of learning music through the integration of Internet and AI Big Data technologies.<br/>I led a development team of 12.<br/>Responsibilities:<ul class="resume-item-list"><li>Architected and developed core modules.</li><li>  Set goals, tracked progress, coordinated resources, and ensured quality.</li><li>Managed recruitment, tech stack, and talent growth for teams.</li></ul>
+  summary: <b>Laiyin</b> is a music education technology platform with over 10 million registered users. It enhances the efficiency and enjoyment of learning music through the integration of Internet and AI Big Data technologies.<p>I led a development team of 12.</p>Responsibilities:<ul class="resume-item-ul"><li>Architected and developed core modules.</li><li>  Set goals, tracked progress, coordinated resources, and ensured quality.</li><li>Managed recruitment, tech stack, and talent growth for teams.</li></ul>
 
 # Senior Technical Expert
 - company: Meituan (Beijing Sankuai Online Technology Co.,Ltd.)
   position: Senior Technical Expert & Team Leader
   duration:  2012-02 ~ 2020-04
-  summary: <b>Meituan</b>, the premier online service platform in China, serves over 770 million registered users. It provides a comprehensive range of services, from food delivery and restaurant reservations to comprehensive travel booking options and essential daily needs(hotels, entrance ticket, flights, trains/buses/boats).<br/>I led a development team of 60.<br/>Responsibilities:<ul class="resume-item-list"><li>Architected and developed core modules.</li><li>  Set goals, tracked progress, coordinated resources, and ensured quality.</li><li>Managed recruitment, tech stack, and talent growth for teams.</li></ul>
+  summary: <b>Meituan</b>, the premier online service platform in China, serves over 770 million registered users. It provides a comprehensive range of services, from food delivery and restaurant reservations to comprehensive travel booking options and essential daily needs(hotels, entrance ticket, flights, trains/buses/boats).<p>I led a development team of 60.</p>Responsibilities:<ul class="resume-item-ul"><li>Architected and developed core modules.</li><li>  Set goals, tracked progress, coordinated resources, and ensured quality.</li><li>Managed recruitment, tech stack, and talent growth for teams.</li></ul>
 
 # Senior Software Engineer
 - company: Diandian (Beijing Changtan Technology Co.,Ltd.)
   position: Senior Software Engineer & Team Leader
   duration:  2011-04 ~ 2012-02
-  summary: <b>Diandian</b> was the largest light blog platform in China (similar to Tumblr), and it had amassed over 6 million registered users during my involvement.<br/>I led a development team of 6.<br/>Responsibilities:&nbsp;<ul><li>Architected and developed apps for the Android platform.</li><li>Tracked project progress, coordinated development resources, and ensured delivery quality.</li></ul>
+  summary: <b>Diandian</b> was the largest light blog platform in China (similar to Tumblr), and it had amassed over 6 million registered users during my involvement.<p>I led a development team of 6.</p>Responsibilities:<ul class="resume-item-ul"><li>Architected and developed apps for the Android platform.</li><li>Tracked project progress, coordinated development resources, and ensured delivery quality.</li></ul>
 
 # Senior Software Engineer
 - company: MoScreen (Beijing MoScreen Technology Co.,Ltd.)
   position: Senior Software Engineer & Team Leader
   duration:  2010-05 ~ 2011-04
-  summary: <b>MoScreen Comic</b> was a popular platform for manga enthusiasts, and it had amassed over 2 million registered users during my involvement.<br/>I led a development team of 4.<br/>Responsibilities:&nbsp;<ul><li>Architected and developed apps for the Android platform.</li><li>Tracked project progress, coordinated development resources, and ensured delivery quality.</li></ul>
+  summary: <b>MoScreen Comic</b> was a popular platform for manga enthusiasts, and it had amassed over 2 million registered users during my involvement.<p>I led a development team of 4.</p>Responsibilities:<ul class="resume-item-ul"><li>Architected and developed apps for the Android platform.</li><li>Tracked project progress, coordinated development resources, and ensured delivery quality.</li></ul>
 
 # Software Engineer
 - company: SinoCom (SinoCom Computer System Co., Ltd.)
   position: Software Engineer
   duration:  2008-06 ~ 2010-05
-  summary: <b>SinoCom</b> is a large-scale global enterprise incorporated in 1995. It is a well-known high-tech company that focuses on offshore software outsourcing, technical support, and services.<br/><br/>Responsibilities:&nbsp;<ul><li>Executed financial and insurance projects on mainframes using COBOL.</li><li>Developed and maintained the company's internal project management system.</li></ul>
+  summary: <b>SinoCom</b> is a large-scale global enterprise incorporated in 1995. It is a well-known high-tech company that focuses on offshore software outsourcing, technical support, and services.<br/>Responsibilities:&nbsp;<ul class="resume-item-ul"><li>Executed financial and insurance projects on mainframes using COBOL.</li><li>Developed and maintained the company's internal project management system.</li></ul>
